@@ -1,10 +1,7 @@
 # Kanye once said
 
 A app with the quotes from the one and only Kanye West
-
-
-https://user-images.githubusercontent.com/47464347/152063844-09b1de5e-8fa4-439c-84d6-1d352dfbcb5c.mp4
-
+### [Video Demo](https://www.youtube.com/watch?v=2xHJQGgG2KI)
 
 ## API
 
