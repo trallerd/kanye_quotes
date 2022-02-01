@@ -2,6 +2,10 @@
 
 A app with the quotes from the one and only Kanye West
 
+
+https://user-images.githubusercontent.com/47464347/152063844-09b1de5e-8fa4-439c-84d6-1d352dfbcb5c.mp4
+
+
 ## API
 
 This project uses de [API Kanye Rest](https://kanye.rest/) to get the quotes
